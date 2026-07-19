@@ -21,4 +21,4 @@ D-pad for steering, left stick for analog control, face buttons for actions, tri
 
 ### Menu Shortcuts
 
-L1 + R1 for level select, Cross (X) for Register, Circle (O) to quit, Triangle (△) for Help, Square (□) for High Scores, Touchpad to start game.
+L1 + R1 for Level Select, Cross (X) to Register, Circle (O) to Quit, Triangle (△) for Help, Square (□) for High Scores, Options for Preferences, and Touchpad to Start the Game.
