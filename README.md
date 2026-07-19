@@ -17,4 +17,8 @@ https://jonasechterhoff.com/Reckless_Drivin.html
 
 ## Controls:
 
-Options for start game, D-pad for steering, left stick for analog control, face buttons for actions, triggers for kickdown/brake.
+D-pad for steering, left stick for analog control, face buttons for actions, triggers for accelerate/brake, Options to quit.
+
+### Menu Shortcuts
+
+L1 + R1 for level select, Cross (X) for Register, Circle (O) to quit, Triangle (△) for Help, Square (□) for High Scores, Touchpad to start game.
